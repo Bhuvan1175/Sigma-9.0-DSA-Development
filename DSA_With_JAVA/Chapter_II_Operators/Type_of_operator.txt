@@ -1,0 +1,18 @@
+
+
+
+ Operators in java
+ 
+ sum=a+b
+ a and b is operand 
+ + is operator
+
+
+    # Type of Opeartor 
+  
+ *  Arithmetic Operator 
+ *  Relational Operator
+ *  Logical Operator
+ *  Bitwise opeartor
+ *  Assignment Operator
+ 
