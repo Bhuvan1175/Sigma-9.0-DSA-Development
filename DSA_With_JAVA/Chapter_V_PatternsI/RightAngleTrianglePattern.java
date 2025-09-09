@@ -16,3 +16,4 @@ public class RightAngleTrianglePattern {
 // for(int line=1;line<=4;line++){
 //  for(int star=1;star<=line;star++){sout("*")
 //}}
+
