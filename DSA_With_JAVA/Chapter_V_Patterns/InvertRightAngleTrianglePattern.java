@@ -1,4 +1,4 @@
-package DSA_With_JAVA.Chapter_V_PatternsI;
+
 
 public class InvertRightAngleTrianglePattern {
     public static void main(String[] args) {

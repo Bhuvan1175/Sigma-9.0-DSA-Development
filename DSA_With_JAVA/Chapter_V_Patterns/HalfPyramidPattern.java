@@ -1,4 +1,3 @@
-package DSA_With_JAVA.Chapter_V_PatternsI;
 
 public class HalfPyramidPattern {
     public static void main(String[] args) {
