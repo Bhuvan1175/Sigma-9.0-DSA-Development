@@ -6,7 +6,7 @@ public class CountCharacter{
         String str="Hello Bhuvan";
         for(char ch:str.toCharArray()){
             count++;
-            //System.out.println("Ch"+ch);
+            System.out.println("Ch"+ch);
         }
         System.out.println("Length of "+str+" is : "+count);
     }
